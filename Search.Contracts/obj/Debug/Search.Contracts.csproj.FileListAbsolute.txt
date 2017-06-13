@@ -1,0 +1,4 @@
+C:\Data\CSharp\demo-Search\Search.Contracts\bin\Debug\Search.Contracts.dll
+C:\Data\CSharp\demo-Search\Search.Contracts\bin\Debug\Search.Contracts.pdb
+C:\Data\CSharp\demo-Search\Search.Contracts\obj\Debug\Search.Contracts.dll
+C:\Data\CSharp\demo-Search\Search.Contracts\obj\Debug\Search.Contracts.pdb
